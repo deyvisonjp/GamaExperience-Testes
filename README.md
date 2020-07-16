@@ -2,7 +2,7 @@
 
 ## INTRODUÇÃO
 
-## AULA 3 - CRIAÇÃO DO PROJETO E JASMINE
+## AULA 3 - CRIAÇÃO DO PROJETO E INICIALIZAÇÃO DO JASMINE
 - Projeto criado com: Node, Express, ejs e Jasmine
 - Comandos de criação:
     - ` express _nomeProjeto --view=ejs `   
