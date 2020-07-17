@@ -14,4 +14,6 @@
     - Instalar o Jasmine globalmente e após as dependencias:
     - ` npm install -g jasmine `  
     - ` npm install --save-dev jasmine `
-    - ` jasmine init `   
+    - ` jasmine `
+
+- [Artigo sobre Jasmine](https://imasters.com.br/desenvolvimento/javascript-testes-com-jasmine-parte-01/#:~:text=Em%20um%20breve%20resumo%2C%20o%20Jasmine%20%C3%A9%20uma,um%20exemplo%3A%20function%20helloWorld%28%29%20%7B%20return%20%27Hello%20world%21%27%3B);   
