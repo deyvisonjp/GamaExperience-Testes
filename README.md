@@ -18,7 +18,7 @@
 
 - [Artigo sobre Jasmine](https://imasters.com.br/desenvolvimento/javascript-testes-com-jasmine-parte-01/#:~:text=Em%20um%20breve%20resumo%2C%20o%20Jasmine%20%C3%A9%20uma,um%20exemplo%3A%20function%20helloWorld%28%29%20%7B%20return%20%27Hello%20world%21%27%3B);   
 
-## AULA 6 e 7 - Testes de Comportamento (Cucumber e Selenium)
+## AULA 6 e 7 - TESTES DE COMPORTAMENTO (CUCUMBER C/ SELENIUM)
 - Instalação   
 ` npm install --save-dev cucumber `
 - Rodar Scenario   
@@ -28,3 +28,12 @@
 Uma biblioteca de automação de navegador. Geralmente usado para testar aplicativos da Web, o Selenium pode ser usado para qualquer tarefa que exija automatizar a interação com o navegador.
 - Instalação: `yarn add --dev selenium-webdriver` 
 - Baixar e instalar o driver do navegador dentro da pasta driver do projeto. 
+
+
+## AULA 8 e 9 - TESTES JEST e CYPRESS
+
+- JEST é um framework de testes similiar ao jasmine;
+    - [Artigo Jest](https://medium.com/@oieduardorabelo/jest-escrever-testes-nunca-foi-t%C3%A3o-divertido-5f0e1950ba10)
+
+- Cypress é um framework para automação de testes end to end. Atualmente, executa os testes no Chrome e utiliza JavaScript como linguagem de programação.
+    - [Artigo Cypress](https://medium.com/cwi-software/testes-automatizados-com-cypress-e-cucumber-d78b211da766).
